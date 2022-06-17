@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hot fix");
         System.out.println("hot fix");
         System.out.println("hot fix合并冲突");
+        System.out.println("hot fix合并冲突");
     }
 }
